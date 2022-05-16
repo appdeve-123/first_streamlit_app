@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('I am learning Snowflake 2')
+streamlit.title('I am lusing GitHub fisrt time ')
