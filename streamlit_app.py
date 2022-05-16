@@ -1,2 +1,6 @@
 import streamlit
-streamlit.title('I am using GitHub first time ')
+streamlit.title('My parents new healthy dinner')
+streamlit.header('Breakfast menu')
+streamlit.text('Avocado Sandwich')
+streamlit.text('Spinach and Rocket Smoothie')
+streamlit.text('Boiled eggs')
